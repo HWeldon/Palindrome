@@ -18,6 +18,7 @@ Requirements:
 
 1. File named "numbers.txt" with integer values seperated by new lines 
 
+
 What is a palindrome?
 
 http://en.wikipedia.org/wiki/Palindromic_number
